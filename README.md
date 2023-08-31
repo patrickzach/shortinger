@@ -22,20 +22,20 @@ Make sure you have the following installed:
 ### Step 1: Clone the Repository
 
 ### Step 2: Install Dependencies
-`composer install``
-`npm install``
+`composer install`
+`npm install`
 
 ### Step 3: Configure Environment
-`DB_CONNECTION=mysql``
-`DB_HOST=127.0.0.1``
-`DB_PORT=3306``
-`DB_DATABASE=your_database_name``
-`DB_USERNAME=your_database_username``
-`DB_PASSWORD=your_database_password``
+`DB_CONNECTION=mysql`
+`DB_HOST=127.0.0.1`
+`DB_PORT=3306`
+`DB_DATABASE=your_database_name`
+`DB_USERNAME=your_database_username`
+`DB_PASSWORD=your_database_password`
 
 ### Step 4: Run Migrations
 
-`php artisan migrate``
+`php artisan migrate`
 
 
 ## License 
